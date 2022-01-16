@@ -1,2 +1,1 @@
-print("Hola mama")
-input("Give me a number:")
+print("Hello world")
